@@ -12,9 +12,9 @@ The top and bottom halves of the case are held together with four #4 flat-head s
 Back Panel (1)  
 ----------
 There are three options for the back panel.  
-1. Use the back panel included with the kit.  You will have to cut holes for the power and USB connectors if you want to add them.
-2. Use the enclosed [.dxf file](https://github.com/uChip/FG085-Case/blob/master/BackPanel1pc.DXF) to order a back panel in 1/16" black acrylic from a laser cutting company such as [Pololu](http://www.customlasercutting.com/).  This part will fit in the enclosed case design.
-3. Use the enclosed [.dxf file](https://github.com/uChip/FG085-Case/blob/master/BackPanel1pc.DXF) to order a back panel in 1/8" black acrylic from a laser cutting company such as [Pololu](http://www.customlasercutting.com/).  You will need to modify the case .stl file to make the channel that captures the back panel wide enough for the 1/8" acrylic.
+  1. Use the back panel included with the kit.  You will have to cut holes for the power and USB connectors if you want to add them.  
+  2. Use the enclosed [.dxf file](https://github.com/uChip/FG085-Case/blob/master/BackPanel1pc.DXF) to order a back panel in 1/16" black acrylic from a laser cutting company such as [Pololu](http://www.customlasercutting.com/).  This part will fit in the enclosed case design.  
+  3. Use the enclosed [.dxf file](https://github.com/uChip/FG085-Case/blob/master/BackPanel1pc.DXF) to order a back panel in 1/8" black acrylic from a laser cutting company such as [Pololu](http://www.customlasercutting.com/).  You will need to modify the case .stl file to make the channel that captures the back panel wide enough for the 1/8" acrylic.  
 
 Spacers (4)  
 -------
