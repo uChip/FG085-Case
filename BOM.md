@@ -1,12 +1,9 @@
-FG085 Case & Hack Bill of Materials (BOM)
-=========================================
+#FG085 Case & Hack Bill of Materials (BOM)
 
-Case (half-case, order 2 pieces)  
-----
+###Case (half-case, order 2 pieces)  
 I have had luck ordering 3D prints from [Shapeways](http://www.shapeways.com) and [MakeXYZ](http://www.makexyz.com).  Shapeways is more expensive but produces a more finished looking print.  More specifically at MakeXYZ I have used a local printer, [Jimmy Fakhouri](http://www.makexyz.com/printer/jimmyjack11@yahoo.com?printer=2771debf5bc034849d631421dd2aa280), to make several cases now.  I can recommend him highly.  
 
-Case Screws (4)  
------------
+###Case Screws (4)  
 The top and bottom halves of the case are held together with four #4 flat-head sheet-metal screws.
 
 Back Panel (1)  
@@ -44,3 +41,7 @@ Note that although I used a plug/header to connect to the PCB, it would have als
   - 2-Pin Polarized Housing (1)  [SparkFun #PRT-08095](https://www.sparkfun.com/products/8095)
   - Crimp Pins (2 plus spares)  [SparkFun #PRT-08100](https://www.sparkfun.com/products/8100)
   - 2-Pin Polarized Header (1)  [SparkFun #PRT-08233](https://www.sparkfun.com/products/8233)
+
+Push-Button Switches  
+--------------------
+None are required but if you are looking to replace some of the ones in the kit or to use in another project you can find them at [Mouser](http://www.mouser.com) #612-TL2230-OA.  
