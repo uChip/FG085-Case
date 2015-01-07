@@ -1,7 +1,7 @@
 Frequency Generator FG085 Case & Hack
 =====================================
 
-This repos contains a [design file](https://github.com/uChip/FG085-Case/blob/master/FuncGenhalfcase1.1.stl) for 3D-printing a case for the JYETech FG085 Frequency Generator kit.  The case uses the front panel and main board from [the kit](http://www.jyetech.com/Products/085/e085K.php).  For the back panel you can use the kit part or there is a design file for a laser cut acrylic back panel with cutouts for bringing the power and USB connectors out the back.  See the BOM file for laser cutting service sources.  
+This repos contains a [design file](https://github.com/uChip/FG085-Case/blob/master/FuncGenhalfcase1.1.stl) for 3D-printing a case for the [JYETech FG085 Frequency Generator kit](http://www.jyetech.com/Products/085/e085K.php).  The case uses the front panel and main board from the kit.  For the back panel you can use the kit part or there is a design file for a laser cut acrylic back panel with cutouts for bringing the power and USB connectors out the back.  See the [BOM file](https://github.com/uChip/FG085-Case/blob/master/BOM.md) for laser cutting service sources.  
 
 This case design is a variation of the general purpose electronic project case design I did for the [StdBx project](http://www.github.com/StdBx/Series100).  The case is assembled from two identical half-case pieces.  See the [BOM file]() for 3D print sources.  
 
