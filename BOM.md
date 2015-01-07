@@ -32,7 +32,7 @@ USB pig-tail
   - Breakout PCB (1)  [OSH Park shared project #tosjrsDY](https://oshpark.com/shared_projects/tosjrsDY)  
   - Ribbon Cable (6")  4-conductor, 
   - 4-pin Housing (1)  Digi-Key #952-2229-ND SIL FEMALE CRIMP HOUSING 4POS  
-  - Crimp Pins (4 plus spares)  
+  - Crimp Pins (4 plus spares)  Digi-Key #952-2157-1-ND FEMALE CRIMP CONTACT SELECTIVE
   - 4-pin Break-away Header, 0.1" (one length of header at least 4 pins)  
 
 Power pig-tail  
