@@ -1,7 +1,7 @@
 #FG085 Case & Hack Bill of Materials (BOM)
 
 ###Case (half-case, order 2 pieces)  
-I have had luck ordering 3D prints from [Shapeways](http://www.shapeways.com) and [MakeXYZ](http://www.makexyz.com).  Shapeways is more expensive but produces a more finished looking print.  More specifically at MakeXYZ I have used a local printer, [Jimmy Fakhouri](http://www.makexyz.com/printer/jimmyjack11@yahoo.com?printer=2771debf5bc034849d631421dd2aa280), to make several cases now.  I can recommend him highly.  
+I have had luck ordering 3D prints from [Shapeways](http://www.shapeways.com) and [MakeXYZ](http://www.makexyz.com).  Shapeways is more expensive but produces a more finished looking print.  More specifically at MakeXYZ I have used a local printer, [Jimmy Fakhouri](http://www.makexyz.com/printer/jimmyjack11@yahoo.com?printer=2771debf5bc034849d631421dd2aa280), to make several cases.  I highly recommend him.  
 
 ###Case Screws (4)  
 The top and bottom halves of the case are held together with four #4 flat-head sheet-metal screws.
@@ -14,13 +14,13 @@ There are three options for the back panel.
 
 ###Spacers (4)  
 Digi-KEY #952-2313-ND HEX STANDOFF M3 BRASS 12MM  
-Use these spacers instead of the ones included in the kit.  They go between the front panel and the PCB.  Use the screws included in the kit.  The screws that normally retain the back panel will now secure the PCB/front panel assembly into the case.  You will only be able to put in two screws in the case but is sufficient.
+Use these spacers instead of the ones included in the kit.  They go between the front panel and the PCB.  Use the screws included in the kit.  The screws that normally retain the back panel will now secure the PCB/front panel assembly into the case.  You will only be able to put in two screws in the case but that is sufficient.
 
 ###Rubber Feet, stick-on (4)  
 Digi-Key #SJ5003-0-ND BUMPER CYLINDRICAL 0.44" DIA BLK  
 
 ###USB pig-tail  
-Note that although I used a plug/header to connect to the PCB, it would have also worked to just solder the ribbon cable directly to the board.  
+Note that although I used a plug/header to connect to the PCB, you could just solder the ribbon cable directly to the board.  
   - USB mini-B Connector (1)  Digi-Key #MUSBB55104 CONN RUGGED USB RCPT VERT MINI B  
   - Connector screws (2) Digi-Key #H700-ND MACHINE SCREW PAN PHILLIPS 2-56  
   - Breakout PCB (1)  [OSH Park shared project #tosjrsDY](https://oshpark.com/shared_projects/tosjrsDY)  
@@ -30,7 +30,7 @@ Note that although I used a plug/header to connect to the PCB, it would have als
   - 4-pin Break-away Header, 0.1" (one length of header at least 4 pins)  
 
 ###Power pig-tail  
-Note that although I used a plug/header to connect to the PCB, it would have also worked to just solder the wires directly to the board.  
+Note that although I used a plug/header to connect to the PCB, you could just solder the wires directly to the board.  
   - Barrel Jack Connector, Panel Mount (1)  Digi-Key #CP-5-ND CONN 2.1MM JACK w/HARD PNL MNT
   - Wire (8" red, 8" black)  stranded, 24 AWG
   - 2-Pin Polarized Housing (1)  [SparkFun #PRT-08095](https://www.sparkfun.com/products/8095)
