@@ -27,18 +27,20 @@ Digi-Key #SJ5003-0-ND BUMPER CYLINDRICAL 0.44" DIA BLK
 
 USB pig-tail  
 ------------
+Note that although I used a plug/header to connect to the PCB, it would have also worked to just solder the ribbon cable directly to the board.  
   - USB mini-B Connector (1)  Digi-Key #MUSBB55104 CONN RUGGED USB RCPT VERT MINI B  
   - Connector screws (2) Digi-Key #H700-ND MACHINE SCREW PAN PHILLIPS 2-56  
   - Breakout PCB (1)  [OSH Park shared project #tosjrsDY](https://oshpark.com/shared_projects/tosjrsDY)  
-  - Ribbon Cable (6")  4-conductor, 
+  - Ribbon Cable (6")  4-conductor, 28 AWG
   - 4-pin Housing (1)  Digi-Key #952-2229-ND SIL FEMALE CRIMP HOUSING 4POS  
   - Crimp Pins (4 plus spares)  Digi-Key #952-2157-1-ND FEMALE CRIMP CONTACT SELECTIVE
   - 4-pin Break-away Header, 0.1" (one length of header at least 4 pins)  
 
 Power pig-tail  
 --------------
+Note that although I used a plug/header to connect to the PCB, it would have also worked to just solder the wires directly to the board.  
   - Barrel Jack Connector, Panel Mount (1)  Digi-Key #CP-5-ND CONN 2.1MM JACK w/HARD PNL MNT
-  - Wire (8" red, 8" black)  stranded, AWG-24
+  - Wire (8" red, 8" black)  stranded, 24 AWG
   - 2-Pin Polarized Housing (1)  [SparkFun #PRT-08095](https://www.sparkfun.com/products/8095)
   - Crimp Pins (2 plus spares)  [SparkFun #PRT-08100](https://www.sparkfun.com/products/8100)
   - 2-Pin Polarized Header (1)  [SparkFun #PRT-08233](https://www.sparkfun.com/products/8233)
